@@ -1,4 +1,4 @@
-<h1 align="center"> Destini </h1>
+<h1 align="center"> Destiny </h1>
 
 <p align="center">
 <img width="150" height="150" img src="https://user-images.githubusercontent.com/67071345/86158305-743d9680-babd-11ea-82c1-5fcecf9c8edc.png">
